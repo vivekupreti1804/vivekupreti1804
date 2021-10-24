@@ -3,7 +3,7 @@ Hola, I’am Vivek Upreti
 - 🔭 I'm Currently working on Frontend 
 - 👀 I’m interested in Web Development, Python, Machine learning
 - 🌱 I’m currently learning Javascript 
-- 💞️ I’m looking to collaborate on Python and Web Development Based Project
+- 💞️ I’m looking to collaborate on Open Source Project
 - 😄 Pronouns: he/his/Quantum
 - 📫 How to reach me Instagram - @vivekupreti1804
 
