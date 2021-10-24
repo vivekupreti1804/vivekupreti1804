@@ -1,4 +1,4 @@
-Hi there 👋 my name is Vivek Upreti my friends call me Quantum
+Hola, 👋 I'am Vivek Prakash Upreti my friends call me Quantum.
 
 - 🔭 I'm Currently working on Frontend 
 - 👀 I’m interested in Web Development, Python, Machine learning
