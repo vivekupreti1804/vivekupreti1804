@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on Open Source Project
 - 😄 Pronouns: he/his/Quantum
 - 📫 How to reach me Instagram - @vivekupreti1804
-- <a href="https://github.com/settings/profile">
+
 
 <!---
 vivekupreti1804/vivekupreti1804 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
