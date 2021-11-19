@@ -1,8 +1,8 @@
 **Hola, 👋 I'am Vivek Prakash Upreti my friends call me Quantum.**
 
 - 🔭 I'm Currently working on Frontend 
-- 👀 I’m interested in Web Development, Python, Machine learning
-- 🌱 I’m currently learning Javascript 
+- 👀 I’m interested in Python, Machine learning
+- 🌱 I’m currently learning Machine Learning 
 - 💞️ I’m looking to collaborate on Open Source Project
 - 😄 Pronouns: he/his/Quantum
 - 📫 How to reach me Instagram - @vivekupreti1804
